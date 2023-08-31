@@ -39,6 +39,7 @@ ul{
     
 }
 .header__list--item{
+
     margin: 10px;
 }
 #inp{
@@ -58,6 +59,16 @@ a{
     color: #fff;
     text-decoration: none;
 }
+select{
+    color: #fff;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+option{
+    background-color: rgb(27, 26, 31);
+}
+
 
 .things{
     width: 1100px;
